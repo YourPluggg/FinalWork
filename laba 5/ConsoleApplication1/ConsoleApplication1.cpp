@@ -5,11 +5,11 @@
 int main()
 {
 
-	float x = 0;
-	float summ = 1;
-	float gg = 1;
-	float per = 1;
-	float summ2 = 0;
+	int x = 0;
+	int summ = 1;
+	int gg = 1;
+	int per = 1;
+	int summ2 = 0;
 	int n = 1;
 	float eps = 0.001;
 	printf("%s", "Enter X:\n");
